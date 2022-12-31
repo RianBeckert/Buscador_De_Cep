@@ -1,8 +1,6 @@
-# Busca CEP 
-
-Busca-cep é um projeto criado com o tutorial de "Sujeito programador" no Youtube para iniciantes em React Js. 
-É válido elucidar que trata-se de uma aplicação simples e com finalidade de conhecer e treinar conceitos em React JS de maneira ainda superficial. 
-
-
+# Buscador de CEP
 Link da API: https://viacep.com.br/
-Link do vídeo: https://www.youtube.com/watch?v=oy4cbqE1_qc
+
+![image](https://user-images.githubusercontent.com/81371744/210156782-b0fbfe53-d656-40de-a650-13abd6050ada.png)
+
+
